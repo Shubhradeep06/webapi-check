@@ -7,4 +7,4 @@ If we are using vs code
 
 The basic folder structure will be there
 To run and hot reload the project run
--- dotnet watch run
+* dotnet watch run
