@@ -2,8 +2,8 @@
 Getting used to the WebAPI Modules
 
 If we are using vs code
-__ dotnet new list __
-__ dotnet new webapi __
+** dotnet new list
+** dotnet new webapi
 
 The basic folder structure will be there
 To run and hot reload the project run
